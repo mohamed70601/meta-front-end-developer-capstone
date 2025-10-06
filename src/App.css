@@ -185,8 +185,33 @@ label {
   cursor: pointer;
 }
 
-.comfirm span {
+/* .confirm {
+  padding: 100px 200px;
+  text-align: center;
+}
+
+.comfirm h1 {
   color: blue;
+} */
+
+.confirm {
+  min-height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.confirm h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 50px 50px;
+  border: 1px solid #333333;
+  background-color: #edefee;
+}
+
+.confirm span {
+  color: #495e57;
 }
 
 /* menu items */
