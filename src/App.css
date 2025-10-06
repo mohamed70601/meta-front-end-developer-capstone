@@ -517,12 +517,15 @@ label {
     margin: 20px 0;
   }
   .menu-header {
-    justify-content: flex-start;
+    justify-content: flex-between;
   }
 
   .menu-items {
     width: 100%;
   }
+
+  /* .order-menu-btn {
+  } */
 
   /* test */
 
