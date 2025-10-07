@@ -1,6 +1,6 @@
 # Meta Front-End Developer Capstone: Little Lemon Table Reservation
 
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap margin-bottom: 40px;">
+<div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap margin-bottom: 40px;">
 
   <!-- Desktop screenshot -->
   <img src="./src/assets/desktop.png" alt="Little Lemon Desktop View" style="width: 55%; max-width: 600px;">
